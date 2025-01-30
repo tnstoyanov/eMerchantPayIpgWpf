@@ -72,7 +72,7 @@
                                                         class="style1">*</span></strong></TD>
                                         <TD>
                                             <input type="text" name="paymentformurl"
-                                                   value="https://payment-b5c.emerchantpay.com">
+                                                   value="https://payment-727.emerchantpay.com">
                                         </TD>
                                     </TR>
                                     <TR>

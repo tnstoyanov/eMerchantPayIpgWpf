@@ -3,9 +3,9 @@ error_reporting(0);
 
 //merchant account parameters assigned by gateway
 //change them according to your own account details
-$md5_key = "xSW83Sq4AYF4";
-$client_id = "1675953";
-$form_id = "20866";
+$md5_key = "rZXim8Jp9RUY";
+$client_id = "2163936";
+$form_id = "21376";
 
 //Posted parameters from the index.php
 $currency = $_POST["currency"];
